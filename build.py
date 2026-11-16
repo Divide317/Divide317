@@ -50,8 +50,15 @@ def load_status():
         req = urllib.request.Request(STATUS_URL, headers={"User-Agent": "profile-dashboard"})
         with urllib.request.urlopen(req, timeout=25) as resp:
             text = resp.read().decode("utf-8")
-    start = text.index("{", text.index("window.STATUS"))
-    return json.loads(text[start:text.rindex("}") + 1])
+    marks = list(re.finditer(r"window\.STATUS\s*=\s*\{", text))
+    if not marks:
+        sys.exit("status.js has no 'window.STATUS = {' line")
+    body = text[marks[-1].end() - 1:text.rindex("}") + 1]
+    try:
+        return json.loads(body)
+    except json.JSONDecodeError as err:
+        sys.exit("status.js is not valid JSON after 'window.STATUS =' (line %d of the data, column %d): %s"
+                 % (err.lineno, err.colno, err.msg))
 
 
 def load_live(status):
