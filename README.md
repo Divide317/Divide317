@@ -2,13 +2,13 @@
 
 ### About me
 
-Computer science undergraduate at VIT Chennai (graduating June 2028), moving from AI and machine learning into cybersecurity and systems. My projects pair a low-level engine in C or C++ with a Python layer on top, and I only publish numbers that a script produced. I lead research and development at the Business Innovators Community and I'm working towards a security and systems role.
+Computer science undergraduate at VIT Chennai (graduating June 2028), moving from AI and machine learning into cybersecurity and systems. My projects pair a low-level engine in C or C++ with a Python layer on top, and I only publish numbers that a script produced. I lead research and development at the Business Innovators Community and I'm working towards a security and systems role in London.
 
 [Portfolio site](https://divide317.github.io/cv-site/) · [Résumé (PDF)](https://divide317.github.io/cv-site/Cedric_Antony_Joseph_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/cedric-antony-joseph-5b68b4224/)
 
 ### Projects
 
-<p><a href="https://github.com/Divide317/Crossview"><img src="assets/project-crossview.svg" width="49%" alt="Crossview: Linux rootkit detector. In progress."></a> <a href="https://github.com/Divide317/No_ball"><img src="assets/project-creaseguard.svg" width="49%" alt="CreaseGuard: Cricket no-ball detection and rule adjudication. In progress."></a></p>
+<p><a href="https://github.com/Divide317/Crossview"><img src="assets/project-crossview.svg" width="49%" alt="Crossview: Linux rootkit detector. In progress."></a> <a href="https://github.com/Divide317/CreaseGuard"><img src="assets/project-creaseguard.svg" width="49%" alt="CreaseGuard: Cricket no-ball detection and rule adjudication. In progress."></a></p>
 <p><a href="https://github.com/Divide317/aml-engine"><img src="assets/project-aml-pattern-engine.svg" width="49%" alt="AML Pattern Engine: Graph engine for money-laundering patterns. Design stage."></a> <img src="assets/project-trustworthy-sensor-node.svg" width="49%" alt="Trustworthy Sensor Node: Signed, replay-protected sensor telemetry. Design stage."></p>
 <p><img src="assets/project-steward.svg" width="49%" alt="Steward: Browser game: you are the AI a new colony relies on. Playable."> <img src="assets/project-gradpilot.svg" width="49%" alt="GradPilot: AI admissions planner for students applying abroad. Hackathon finalist."></p>
 
