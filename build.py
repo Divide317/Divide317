@@ -355,6 +355,7 @@ def build():
             rows.append((by_repo[repo]["name"], "pushed new work", date))
     for pr in live["merged"]:
         rows.append((pr["repo"], "pull request merged: " + pr["title"][:60], pr["date"]))
+    rows.sort(key=lambda r: r[0])                 # stable order for equal dates
     rows.sort(key=lambda r: r[2], reverse=True)
     rows = rows[:6]
     if rows:
