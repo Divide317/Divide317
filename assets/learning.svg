@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 266" width="1000" height="266" role="img" aria-label="Currently learning: Google Cybersecurity Professional Certificate (In progress); CompTIA Security+ (Planned for 2027)" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title>Currently learning: Google Cybersecurity Professional Certificate (In progress); CompTIA Security+ (Planned for 2027)</title>
+<rect x="0.5" y="0.5" width="999" height="265" rx="14" fill="#12382B" stroke="rgba(241,238,227,0.2)"/>
+<text x="28" y="56" font-size="21" font-weight="700" fill="#F1EEE3" text-anchor="start">Google Cybersecurity Professional Certificate</text>
+<text x="972" y="56" font-size="15" font-weight="600" fill="#F4C430" text-anchor="end">In progress</text>
+<text x="28" y="80" font-size="14" font-weight="400" fill="#B7C1BB" text-anchor="start">Coursera</text>
+<text x="28" y="104" font-size="14" font-weight="400" fill="#B7C1BB" text-anchor="start">Covers Linux, SQL and Python for security work, SIEM tools, intrusion detection, packet analysis, incident</text>
+<text x="28" y="124" font-size="14" font-weight="400" fill="#B7C1BB" text-anchor="start">response.</text>
+<line x1="28" y1="150" x2="972" y2="150" stroke="rgba(241,238,227,0.2)"/>
+<text x="28" y="186" font-size="21" font-weight="700" fill="#F1EEE3" text-anchor="start">CompTIA Security+</text>
+<text x="972" y="186" font-size="15" font-weight="600" fill="#F4C430" text-anchor="end">Planned for 2027</text>
+<text x="28" y="210" font-size="14" font-weight="400" fill="#B7C1BB" text-anchor="start">CompTIA</text>
+<text x="28" y="234" font-size="14" font-weight="400" fill="#B7C1BB" text-anchor="start">Covers threats and mitigations, security architecture, security operations, governance and risk.</text>
+</svg>

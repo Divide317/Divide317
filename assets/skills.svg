@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 498" width="1000" height="498" role="img" aria-label="Skills: Languages: C, C++, Python, Java, SQL, JavaScript; Systems and security: Linux internals, Rootkit detection, MITRE ATT&amp;CK, Threat modelling, Kali Linux; Security operations: SIEM tools, Intrusion detection, Packet analysis, Incident response; Testing and tooling: Git, GitHub Actions, AddressSanitizer, UBSan, Valgrind, clang-tidy, pytest, Docker; Machine learning and backend: PyTorch, TensorFlow, scikit-learn, OpenCV, ONNX, FastAPI, PostgreSQL, MongoDB, AWS" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title>Skills: Languages: C, C++, Python, Java, SQL, JavaScript; Systems and security: Linux internals, Rootkit detection, MITRE ATT&amp;CK, Threat modelling, Kali Linux; Security operations: SIEM tools, Intrusion detection, Packet analysis, Incident response; Testing and tooling: Git, GitHub Actions, AddressSanitizer, UBSan, Valgrind, clang-tidy, pytest, Docker; Machine learning and backend: PyTorch, TensorFlow, scikit-learn, OpenCV, ONNX, FastAPI, PostgreSQL, MongoDB, AWS</title>
+<rect x="0.5" y="0.5" width="999" height="497" rx="14" fill="#12382B" stroke="rgba(241,238,227,0.2)"/>
+<text x="28" y="40" font-size="15" font-weight="400" fill="#B7C1BB" text-anchor="start">Languages</text>
+<rect x="28.0" y="56" width="38.9" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="47.4272" y="77.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">C</text>
+<rect x="76.9" y="56" width="56.8" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="105.2704" y="77.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">C++</text>
+<rect x="143.7" y="56" width="79.9" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="183.6352" y="77.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">Python</text>
+<rect x="233.6" y="56" width="65.8" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="266.4944" y="77.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">Java</text>
+<rect x="309.4" y="56" width="60.6" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="339.68640000000005" y="77.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">SQL</text>
+<rect x="380.0" y="56" width="113.8" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="436.8768" y="77.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">JavaScript</text>
+<text x="28" y="126" font-size="15" font-weight="400" fill="#B7C1BB" text-anchor="start">Systems and security</text>
+<rect x="28.0" y="142" width="145.2" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="100.5968" y="163.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">Linux internals</text>
+<rect x="183.2" y="142" width="155.4" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="260.8784" y="163.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">Rootkit detection</text>
+<rect x="348.6" y="142" width="154.4" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="425.73920000000004" y="163.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">MITRE ATT&amp;CK</text>
+<rect x="512.9" y="142" width="159.8" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="592.8048" y="163.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">Threat modelling</text>
+<rect x="682.7" y="142" width="106.0" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="735.7024000000001" y="163.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">Kali Linux</text>
+<text x="28" y="212" font-size="15" font-weight="400" fill="#B7C1BB" text-anchor="start">Security operations (learning now through the Google certificate)</text>
+<rect x="28.0" y="228" width="117.4" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="86.6896" y="249.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">SIEM tools</text>
+<rect x="155.4" y="228" width="177.2" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="244.0032" y="249.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">Intrusion detection</text>
+<rect x="342.6" y="228" width="149.1" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="417.1744" y="249.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">Packet analysis</text>
+<rect x="501.7" y="228" width="171.0" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="587.2080000000001" y="249.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">Incident response</text>
+<text x="28" y="298" font-size="15" font-weight="400" fill="#B7C1BB" text-anchor="start">Testing and tooling</text>
+<rect x="28.0" y="314" width="49.0" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="52.5152" y="335.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">Git</text>
+<rect x="87.0" y="314" width="139.9" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="156.9984" y="335.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">GitHub Actions</text>
+<rect x="237.0" y="314" width="163.8" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="318.8912" y="335.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">AddressSanitizer</text>
+<rect x="410.8" y="314" width="78.5" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="450.0864" y="335.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">UBSan</text>
+<rect x="499.4" y="314" width="94.0" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="546.344" y="335.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">Valgrind</text>
+<rect x="603.3" y="314" width="106.2" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="656.4240000000001" y="335.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">clang-tidy</text>
+<rect x="719.5" y="314" width="74.1" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="756.5824000000001" y="335.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">pytest</text>
+<rect x="803.6" y="314" width="83.8" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="845.5472000000001" y="335.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">Docker</text>
+<text x="28" y="384" font-size="15" font-weight="400" fill="#B7C1BB" text-anchor="start">Machine learning and backend</text>
+<rect x="28.0" y="400" width="94.7" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="75.3264" y="421.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">PyTorch</text>
+<rect x="132.7" y="400" width="123.3" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="194.31040000000002" y="421.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">TensorFlow</text>
+<rect x="266.0" y="400" width="120.3" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="326.0992" y="421.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">scikit-learn</text>
+<rect x="396.2" y="400" width="87.5" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="439.99520000000007" y="421.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">OpenCV</text>
+<rect x="493.8" y="400" width="71.4" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="529.4688000000001" y="421.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">ONNX</text>
+<rect x="575.2" y="400" width="94.5" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="622.4192" y="421.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">FastAPI</text>
+<rect x="679.7" y="400" width="121.4" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="740.3856" y="421.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">PostgreSQL</text>
+<rect x="811.1" y="400" width="100.2" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="861.2352000000001" y="421.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">MongoDB</text>
+<rect x="28.0" y="442" width="64.3" height="32" rx="16" fill="#0B271E" stroke="rgba(241,238,227,0.2)"/>
+<text x="60.1472" y="463.5" font-size="16" font-weight="600" fill="#F1EEE3" text-anchor="middle">AWS</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 196" width="490" height="196" role="img" aria-label="Trustworthy Sensor Node: Signed, replay-protected sensor telemetry. Design stage." font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title>Trustworthy Sensor Node: Signed, replay-protected sensor telemetry. Design stage.</title>
+<rect x="0.5" y="0.5" width="489" height="195" rx="14" fill="#12382B" stroke="rgba(241,238,227,0.2)"/>
+<rect x="368.9" y="22" width="99.1" height="26" rx="13" fill="none" stroke="#F4C430" stroke-width="1.5"/>
+<text x="418.43" y="40" font-size="13" font-weight="600" fill="#F4C430" text-anchor="middle">Design stage</text>
+<text x="24" y="46" font-size="25" font-weight="700" fill="#F1EEE3" text-anchor="start">Trustworthy Sensor Node</text>
+<text x="24" y="74" font-size="15" font-weight="400" fill="#B7C1BB" text-anchor="start">Signed, replay-protected sensor telemetry</text>
+<rect x="24" y="94" width="170" height="10" rx="2" fill="rgba(241,238,227,0.14)"/><rect x="24" y="94" width="8.5" height="10" rx="2" fill="#F4C430"/><rect x="40.0" y="94" width="2" height="10" fill="#12382B"/><rect x="57.0" y="94" width="2" height="10" fill="#12382B"/><rect x="74.0" y="94" width="2" height="10" fill="#12382B"/><rect x="91.0" y="94" width="2" height="10" fill="#12382B"/><rect x="108.0" y="94" width="2" height="10" fill="#12382B"/><rect x="125.0" y="94" width="2" height="10" fill="#12382B"/><rect x="142.0" y="94" width="2" height="10" fill="#12382B"/><rect x="159.0" y="94" width="2" height="10" fill="#12382B"/><rect x="176.0" y="94" width="2" height="10" fill="#12382B"/>
+<text x="206" y="103" font-size="14" font-weight="600" fill="#F1EEE3" text-anchor="start">5% built</text>
+<text x="24" y="131" font-size="14" font-weight="400" fill="#F1EEE3" text-anchor="start">Bare-metal C (ATmega328P), FastAPI</text>
+</svg>
