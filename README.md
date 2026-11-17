@@ -2,7 +2,7 @@
 
 ### About me
 
-Computer science undergraduate at VIT Chennai (graduating June 2028), specialising in AI and machine learning and extending that work into cybersecurity and systems. I apply machine learning to security problems, such as anomaly detection for rootkits and pattern detection in financial transactions. My projects pair a low-level engine in C or C++ with a Python layer on top, and I only publish numbers that a script produced. I lead research and development at the Business Innovators Community and I'm working towards a security and systems role.
+Computer science undergraduate at VIT Chennai (graduating June 2028), specialising in AI and machine learning and extending that work into cybersecurity and systems. I apply machine learning to security problems, such as anomaly detection for rootkits and pattern detection in financial transactions. My projects pair a low-level engine in C or C++ with a Python layer on top, and I only publish numbers that a script produced. I lead research and development at the Business Innovators Community and I'm working towards a security and systems role in London.
 
 [Portfolio site](https://divide317.github.io/cv-site/) · [Résumé (PDF)](https://divide317.github.io/cv-site/Cedric_Antony_Joseph_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/cedric-antony-joseph-5b68b4224/)
 
