@@ -225,7 +225,7 @@ def hero_card(status):
     for line in headline:
         body.append(text(68, y, line, 23, weight=500))
         y += 32
-    role = "Computer science undergraduate, VIT Chennai. Security and systems."
+    role = "Computer science undergraduate, VIT Chennai. AI and machine learning, security and systems."
     body.append(text(68, y + 14, role, 16, fill=ALU))
     body.append('<svg x="742" y="35" width="220" height="220" viewBox="0 0 320 320">%s</svg>' % "".join(dial))
 
