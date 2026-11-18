@@ -8,9 +8,9 @@ Computer science undergraduate at VIT Chennai (graduating June 2028), specialisi
 
 ### Projects
 
-<p><a href="https://github.com/Divide317/Crossview"><img src="assets/project-crossview.svg" width="49%" alt="Crossview: Linux rootkit detector. In progress."></a> <a href="https://github.com/Divide317/CreaseGuard"><img src="assets/project-creaseguard.svg" width="49%" alt="CreaseGuard: Cricket no-ball detection and rule adjudication. In progress."></a></p>
-<p><a href="https://github.com/Divide317/aml-engine"><img src="assets/project-aml-pattern-engine.svg" width="49%" alt="AML Pattern Engine: Graph engine for money-laundering patterns. Design stage."></a> <img src="assets/project-trustworthy-sensor-node.svg" width="49%" alt="Trustworthy Sensor Node: Signed, replay-protected sensor telemetry. Design stage."></p>
-<p><img src="assets/project-steward.svg" width="49%" alt="Steward: Browser game: you are the AI a new colony relies on. Playable."> <img src="assets/project-gradpilot.svg" width="49%" alt="GradPilot: AI admissions planner for students applying abroad. Hackathon finalist."></p>
+<p><a href="https://github.com/Divide317/Crossview"><img src="assets/project-crossview.svg" width="49%" alt="Crossview: Linux rootkit detector. In progress."></a> <a href="https://github.com/Divide317/CreaseGuard"><img src="assets/project-creaseguard.svg" width="49%" alt="CreaseGuard: Cricket no-ball detection and rule adjudication. Finished, being updated."></a></p>
+<p><a href="https://github.com/Divide317/aml-engine"><img src="assets/project-aml-pattern-engine.svg" width="49%" alt="AML Pattern Engine: Graph engine for money-laundering patterns. In progress."></a> <img src="assets/project-trustworthy-sensor-node.svg" width="49%" alt="Trustworthy Sensor Node: Signed, replay-protected sensor telemetry. Design stage."></p>
+<p><a href="https://github.com/Divide317/Steward"><img src="assets/project-steward.svg" width="49%" alt="Steward: Browser game: you are the AI a new colony relies on. Playable."></a> <img src="assets/project-gradpilot.svg" width="49%" alt="GradPilot: AI admissions planner for students applying abroad. Hackathon finalist."></p>
 
 ### Contributions and recent work
 
